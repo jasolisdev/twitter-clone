@@ -1,0 +1,34 @@
+body{
+  color: #fff;
+}
+
+html {
+  background-color: #15202B;
+}
+.title {
+  text-align: center;
+  /* color: #fff; */
+}
+
+.tweet-box {
+  width: 50%;
+  margin: 0 auto;
+  /* color: #fff; */
+  border: 1px solid;
+  border-color: #38444D;
+  padding: 20px;
+}
+
+img.animated-gif {
+width: 70px;
+height: auto;
+}
+
+.loading {
+  text-align: center;
+}
+
+.tweets {
+  width: 80%;
+  margin: 0 auto;
+}
